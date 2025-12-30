@@ -162,3 +162,5 @@ For support, please:
 1. Check the documentation
 2. Search existing issues
 3. Create a new issue if needed
+
+## By [Muhammad Bashir Sharif](https://github.com/balqaasem)
